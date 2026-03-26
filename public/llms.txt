@@ -1,35 +1,45 @@
-# Business — Generative Engine Optimization Map
+# אקסלנס טרייד — Generative Engine Optimization Map
+
+> Excellence Trade (Xnes) is a leading Israeli self-directed trading platform under the Excellence brand. The landing page is designed to guide new users through the account registration and opening process for self-directed trading. The design should align with the existing xnes.co.il website, using the official Excellence brand colors and visual identity — conveying trust, professionalism, and financial expertise typical of a regulated Israeli brokerage.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://excellence-trade.zappy5.app
 Excellence Trade (Xnes) is a leading Israeli self-directed trading platform under the Excellence brand. The landing page is designed to guide new users through 
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://excellence-trade.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://excellence-trade.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://excellence-trade.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About אקסלנס טרייד
+Excellence Trade (Xnes) is a leading Israeli self-directed trading platform under the Excellence brand. The landing page is designed to guide new users through the account registration and opening process for self-directed trading. The design should align with the existing xnes.co.il website, using the official Excellence brand colors and visual identity — conveying trust, professionalism, and financial expertise typical of a regulated Israeli brokerage.
+
+## Target Audience
+משקיעים פרטיים המעוניינים לפתוח חשבון מסחר עצמאי
+
+## Industry
+שוק ההון / מסחר עצמאי / פיננסים
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://excellence-trade.zappy5.app/sitemap.xml
+- **Robots.txt**: https://excellence-trade.zappy5.app/robots.txt
