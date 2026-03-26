@@ -1,6 +1,4 @@
-# אקסלנס טרייד — Generative Engine Optimization Map
-
-> Excellence Trade (Xnes) is a leading Israeli self-directed trading platform under the Excellence brand. The landing page is designed to guide new users through the account registration and opening process for self-directed trading. The design should align with the existing xnes.co.il website, using the official Excellence brand colors and visual identity — conveying trust, professionalism, and financial expertise typical of a regulated Israeli brokerage.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -28,15 +26,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About אקסלנס טרייד
-Excellence Trade (Xnes) is a leading Israeli self-directed trading platform under the Excellence brand. The landing page is designed to guide new users through the account registration and opening process for self-directed trading. The design should align with the existing xnes.co.il website, using the official Excellence brand colors and visual identity — conveying trust, professionalism, and financial expertise typical of a regulated Israeli brokerage.
-
-## Target Audience
-משקיעים פרטיים המעוניינים לפתוח חשבון מסחר עצמאי
-
-## Industry
-שוק ההון / מסחר עצמאי / פיננסים
-
+## About Business
 ---
 
 # Additional Resources
